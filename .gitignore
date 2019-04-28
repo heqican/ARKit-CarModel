@@ -3,6 +3,10 @@
 *.dae
 .DAE
 .dae
+*.scn
+.scn
+*.SCN
+.SCN
 .DS_Store
 *.pbxuser
 !default.pbxuser
